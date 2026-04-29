@@ -4,6 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Jacopo/Map/testMap.unity
+    guid: 3455866d1175042eb8fae40fb60acda7
+  - enabled: 1
+    path: Assets/Jacopo/Map/Menu.unity
+    guid: d1dff52bf7e4b4e4f98eec24eaeb180e
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
